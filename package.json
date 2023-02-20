@@ -1,0 +1,19 @@
+{
+  "name": "pvpbooster-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "dev": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+  
+}
