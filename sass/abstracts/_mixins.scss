@@ -1,0 +1,26 @@
+
+@mixin mobile2{
+    @media only screen and (max-width:400px){
+        @content;
+    }  
+}
+@mixin mobile{
+    @media only screen and (max-width:700px){
+        @content;
+    }
+}
+@mixin tablet{
+    @media only screen and (min-width:  701px) and (max-width:1600px){
+        @content;
+    }
+}
+@mixin fade-in{
+    opacity: 1;
+}
+@mixin wrapper($bgimg){
+    height:120vh;
+    background-image:  $bgimg;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
