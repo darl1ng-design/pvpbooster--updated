@@ -12,7 +12,7 @@
         mining scripts, anti kick scripts, minecraft anti kick, blazingpack, kopanie w tle, obejscie, discord, fake lag, 
         obejscie bp, badlion, lunar, client">
         <title>pvpbooster - Logowanie</title>
-        <link rel="stylesheet" href="css/kupa.css?v=<?php echo time(); ?>">
+        <link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
         <script src="https://kit.fontawesome.com/0d84a0dd17.js" crossorigin="anonymous"></script>
         </head>
