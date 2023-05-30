@@ -11,7 +11,7 @@ minecraft pvp skrypty, minecraft pvp scripts, minecraft mining scripts, minecraf
 mining scripts, anti kick scripts, minecraft anti kick, blazingpack, kopanie w tle, obejscie, discord, fake lag, 
 obejscie bp, badlion, lunar, client">
 <title>pvpbooster - Rejestracja</title>
-<link href="css/kupa.css?v=<?php echo time(); ?>" rel="stylesheet">
+<link href="css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 <script src="https://kit.fontawesome.com/0d84a0dd17.js" crossorigin="anonymous"></script>
 </head>
